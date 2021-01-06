@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.exe
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.deps.json
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.dll
+C:\Users\fic\Desktop\Andre\MCV_Console\bin\Debug\netcoreapp3.1\MCV_Console.pdb
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.dll
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.pdb
+C:\Users\fic\Desktop\Andre\MCV_Console\obj\Debug\netcoreapp3.1\MCV_Console.genruntimeconfig.cache
